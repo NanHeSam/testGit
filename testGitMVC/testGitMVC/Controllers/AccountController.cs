@@ -18,6 +18,8 @@ namespace testGitMVC.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
+       // public test1() { }
+
         public AccountController()
         {
         }
