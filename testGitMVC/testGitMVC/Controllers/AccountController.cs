@@ -19,7 +19,7 @@ namespace testGitMVC.Controllers
         private ApplicationUserManager _userManager;
 
        // public test1() { }
-
+       // gggggg
         public AccountController()
         {
         }
